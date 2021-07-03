@@ -1,0 +1,1 @@
+Please download glove.6B.100d.txt from https://www.kaggle.com/danielwillgeorge/glove6b100dtxt as github's file size limit does not allow to upload that
